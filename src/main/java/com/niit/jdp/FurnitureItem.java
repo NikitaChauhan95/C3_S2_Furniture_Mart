@@ -19,6 +19,15 @@ public class FurnitureItem {
     public FurnitureItem() {
     }
 
+    public FurnitureItem(String furnitureCode, String furnitureType, int gradeOfFurniture, String color, String furnitureUsage, double price) {
+        this.furnitureCode = "XYZ";
+        this.furnitureType = "TABLE";
+        this.gradeOfFurniture = 1;
+        this.color = "RED";
+        this.furnitureUsage = "OUTDOOR";
+        this.price = 4500.00;
+    }
+
 
 }
 
