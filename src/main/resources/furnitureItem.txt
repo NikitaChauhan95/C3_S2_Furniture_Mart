@@ -1,0 +1,12 @@
+Attributes
+
+furniture code
+furniture type
+grade of furniture
+color
+furniture usage
+price
+
+Behaviour
+
+give 5% discount
