@@ -48,6 +48,17 @@ public class FurnitureItem {
         System.out.println(price);
     }
 
+    public class FurnitureItemImpl {
+        public static void main(String[] args) {
+            FurnitureItem furnitureItem = new FurnitureItem("XYZ", "Table", 1, "RED", "OUTDOOR", 4500);
+            furnitureItem.calculateDiscountForOutdoorFurniture();
+            furnitureItem.displayDetails();
 
+        }
+
+    }
 }
+
+
+
 
