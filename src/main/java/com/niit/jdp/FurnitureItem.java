@@ -14,5 +14,11 @@ public class FurnitureItem {
     String color;
     String furnitureUsage;
     double price;
+
+
+    public FurnitureItem() {
+    }
+
+
 }
 
