@@ -28,6 +28,17 @@ public class FurnitureItem {
         this.price = 4500.00;
     }
 
+    public double calculateDiscountForOutdoorFurniture() {
+        double discountedPrice = 0.0;
+        if ("OUTDOOR".equals(furnitureType)) {
+            discountedPrice = price - price * 0.05;
+        } else {
+            discountedPrice = price;
+        }
+        return discountedPrice;
+
+    }
+
 
 }
 

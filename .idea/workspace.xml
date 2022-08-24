@@ -4,13 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="de23b2df-bee7-4d9c-8f61-ba93e628fc1f" name="Changes" comment="changed jdk version from 18 to 11">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/niit/jdp/FurnitureItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/niit/jdp/FurnitureItemImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/furnitureItem.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="de23b2df-bee7-4d9c-8f61-ba93e628fc1f" name="Changes" comment="declared constructor with argument and initialise the values">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/niit/jdp/FurnitureItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/niit/jdp/FurnitureItem.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,7 +99,28 @@
       <option name="project" value="LOCAL" />
       <updated>1661337666447</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="created furniture item class and declared the variables">
+      <created>1661345639003</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1661345639003</updated>
+    </task>
+    <task id="LOCAL-00004" summary="declared constructor without argument">
+      <created>1661345708000</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1661345708000</updated>
+    </task>
+    <task id="LOCAL-00005" summary="declared constructor with argument and initialise the values">
+      <created>1661345753272</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1661345753272</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -120,7 +137,10 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
     <MESSAGE value="changed jdk version from 18 to 11" />
-    <option name="LAST_COMMIT_MESSAGE" value="changed jdk version from 18 to 11" />
+    <MESSAGE value="created furniture item class and declared the variables" />
+    <MESSAGE value="declared constructor without argument" />
+    <MESSAGE value="declared constructor with argument and initialise the values" />
+    <option name="LAST_COMMIT_MESSAGE" value="declared constructor with argument and initialise the values" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
