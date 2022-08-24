@@ -39,6 +39,15 @@ public class FurnitureItem {
 
     }
 
+    void displayDetails() {
+        System.out.println(furnitureCode);
+        System.out.println(furnitureType);
+        System.out.println(gradeOfFurniture);
+        System.out.println(color);
+        System.out.println(furnitureUsage);
+        System.out.println(price);
+    }
+
 
 }
 
